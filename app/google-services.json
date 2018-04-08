@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "306968345860",
+    "firebase_url": "https://p2p-microfinance.firebaseio.com",
+    "project_id": "p2p-microfinance",
+    "storage_bucket": "p2p-microfinance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306968345860:android:0b901219e29c9c84",
+        "android_client_info": {
+          "package_name": "com.example.adharshbabu.p2pmicrofinance_borrower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306968345860-3rcmb8sbrqfj2i9h4r0ir5tchgb1edae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adharshbabu.p2pmicrofinance_borrower",
+            "certificate_hash": "66d8e19adcf646ed8e006798267851f34c1ada08"
+          }
+        },
+        {
+          "client_id": "306968345860-phar89tvk7c87ul781oprt8cdoeo93gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr1snzBtbc57bOMJyOVR1SZBjnHSKYbFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306968345860-phar89tvk7c87ul781oprt8cdoeo93gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306968345860:android:3e775a3a275512fd",
+        "android_client_info": {
+          "package_name": "org.in.microfinancelender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306968345860-fcbdbs3o4ohh6gldqt20tahlhtdd0un5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.in.microfinancelender",
+            "certificate_hash": "94383d8f96593edc03d1e68e63b10313d5c2de97"
+          }
+        },
+        {
+          "client_id": "306968345860-phar89tvk7c87ul781oprt8cdoeo93gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr1snzBtbc57bOMJyOVR1SZBjnHSKYbFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306968345860-phar89tvk7c87ul781oprt8cdoeo93gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
